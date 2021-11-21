@@ -14,7 +14,6 @@
 
 
 ////////////////////////INICIO PARA CADASTRO DO PACIENTE/////////////////
-
 struct campos { // Dados
 
     char nome[50]; //VALIDADO // é usado para armazenar um caractere pode amarzenar n numeros de caracter fixos
